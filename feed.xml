@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:72F2C5A8-E6F2-4C01-8F49-39FCA1D123DC</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-01-07T17:54:13+00:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:690268BE-F199-4D73-AB47-723A213A58F6</id>
+  <title>The Arne Gallery</title>
+  <title xmlns="urn:iweb:">The Arne Gallery</title>
+  <in-navbar xmlns="urn:iweb:">690268BE-F199-4D73-AB47-723A213A58F6</in-navbar>
+  <link rel="alternate" href="The_Arne_Gallery.html"/>
+  <updated>2013-01-07T17:54:13.001+00:00</updated>
+  <content>The Arne Gallery</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CC3C1F9E-E5CE-410D-A14F-8D01F12A8263</id>
+  <title>Stephen Foster</title>
+  <title xmlns="urn:iweb:">Stephen Foster</title>
+  <in-navbar xmlns="urn:iweb:">CC3C1F9E-E5CE-410D-A14F-8D01F12A8263</in-navbar>
+  <link rel="alternate" href="Stephen_Foster.html"/>
+  <updated>2013-01-07T17:54:13.002+00:00</updated>
+  <content>Stephen Foster</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5C5B851E-18E9-443E-B32F-F0ECB9DEE9B2</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">5C5B851E-18E9-443E-B32F-F0ECB9DEE9B2</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2013-01-07T17:54:13.003+00:00</updated>
+  <content>Contact Us</content>
+ </entry>
+</feed>
